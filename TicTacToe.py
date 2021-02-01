@@ -39,7 +39,7 @@ import random
 import termtables as tt
 import time
 
-# Set parameters of board
+# Set parameters of board.
 BOARD_DIM = 3
 
 # Set options for board
