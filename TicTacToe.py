@@ -10,9 +10,9 @@ Title: Naughts and Crosses
 """
 
 # Steps
-# Build Tic-Tac-Toe game that allows humans to play against one another
-# Plug AIs into the game engine
-# Pit AIs against each other
+# Build Tic-Tac-Toe game that allows humans to play against one another.
+# Plug AIs into the game engine.
+# Pit AIs against each other.
 
    ############################
    #        #        #        #
